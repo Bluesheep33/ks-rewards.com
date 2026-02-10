@@ -1,4 +1,6 @@
 ## !! This project has moved to codeberg.org/adaja/ks-rewards.com
+
+## !! Currently the website runs in production on commit 28502bf, the latest version on master is buggy
  
 # Kingshot Rewards – Automatic Gift Code Redemption
 
