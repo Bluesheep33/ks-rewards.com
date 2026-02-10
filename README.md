@@ -1,6 +1,6 @@
-# This repo has moved to codeberg.org/ks-rewards/ks-rewards.com
+## !! This project has moved to codeberg.org/adaja/ks-rewards.com
  
- # Kingshot Rewards – Automatic Gift Code Redemption
+# Kingshot Rewards – Automatic Gift Code Redemption
 
 Automatically monitors and redeems Kingshot gift codes for registered players.
 
